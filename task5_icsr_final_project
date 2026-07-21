@@ -1,1 +1,37 @@
+FINAL PROJECT: INDIVIDUAL CASE SAFETY REPORT (ICSR)
 
+Safety Evaluator / Drug Safety Associate: Raja Aynkaran
+Institution: JSS College of Pharmacy
+Project ID: task5
+
+SECTION 1: ADR IDENTIFICATION
+• Primary Suspect Drug: Amoxicillin
+• Patient Profile: 45-year-old Female
+• Presenting Reactions: Generalized skin rash, severe pruritus (itching), nausea, and dizziness
+• Concomitant Medication: Paracetamol (taken as needed / p.r.n.)
+• Timeline Assessment: Symptoms initiated 5 days after starting Amoxicillin. The temporal association strongly supports a delayed hypersensitivity response to the antibiotic.
+
+SECTION 2: ICSR STRUCTURED REPORT FORM
+Category/ Field Description/ Safety Entry Data
+Patient Data :Initials / Age / SexN/A / 45 years / Female
+Suspected Drug: Drug Name / Route / OnsetAmoxicillin / Oral / Day 5 post-initiation
+Concomitant Drug: Drug Name / UsageParacetamol / Intermittent (p.r.n.)
+Adverse Event: Reaction TermsGeneralized rash, pruritus, nausea, dizziness
+Event Outcome: Current StatusAction taken: Discontinuation recommended
+Reporter Info: Evaluator Name / InstitutionRaja
+
+SECTION 3: CAUSALITY ASSESSMENT
+• WHO-UMC Classification: PROBABLE / LIKELY
+Reasoning: Clear temporal sequence with drug intake (5 days), low probability of alternative drug/disease etiology, and expected improvement upon de-challenge. Re-challenge was not conducted for safety reasons.
+• Naranjo Algorithm Score: +7 (PROBABLE)
+Score Breakdown: Previous conclusive reports (+1), Event after drug (+2), Improvement on de-challenge (+1), No alternative causes (+2), Objective skin rash evidence (+1).
+
+SECTION 4: CASE CLASSIFICATION & SEVERITY ANALYSIS
+• Seriousness Category: NON-SERIOUS
+Reasoning: Does not meet regulatory definitions of serious (no hospitalization, life-threatening situation, disability, or death).
+• Expectedness Category: EXPECTED
+Reasoning: Cutaneous hypersensitivity reactions (rash and itching) are well-documented labeled events in standard product monographs for Amoxicillin.
+• Regulatory Action: Internal safety record entry and routine signal monitoring. Expedited 15-day reporting is not required given the Non-Serious/Expected profile.
+
+SECTION 5: DRUG SAFETY ASSOCIATE SUMMARY & CONCLUSION
+This ICSR documents a Probable, Non-Serious, Expected Adverse Drug Reaction to Amoxicillin. The immediate recommendation is withdrawal of Amoxicillin therapy and initiation of symptomatic treatment (e.g., antihistamines). The case has been verified and archived in accordance with standard pharmacovigilance safety evaluation protocols.
