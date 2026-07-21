@@ -1,1 +1,21 @@
+Task 4: Case Classification & Severity Analysis
+Student Name: Raja Aynkaran S
+Institution: JSS College of Pharmacy  
 
+1. Case Evaluation Table
+
+| Case | Suspected Drug | Adverse Reaction | Seriousness | Expectedness | Clinical Rationale |
+| 01 | Amoxicillin | Skin rash, itching | NON-SERIOUS | EXPECTED | Does not meet regulatory criteria for serious (no hospitalization/threat to life). Cutaneous reactions are well-documented labeled events for aminopenicillins. |
+| 02 | Ibuprofen| GI bleeding requiring hospitalization | SERIOUS | EXPECTED | Classified as serious because it resulted in hospitalization. GI bleeding is a known, labeled risk of NSAID therapy. |
+| 03 | Metformin| Lactic acidosis | SERIOUS | UNEXPECTED | Lactic acidosis is a medically important, potentially life-threatening condition (Serious). *Note: While often a boxed warning, it is classified here as unexpected per the specific case scenario parameters. |
+| 04 | Atorvastatin| Elevated liver enzymes (mild) | NON-SERIOUS | EXPECTED | Mild asymptomatic elevations do not meet serious criteria. Transaminitis is a known, expected pharmacological effect of statins.
+| 05 | Levofloxacin | Tendon rupture | SERIOUS |  UNEXPECTED | Results in significant disability/medically important event (Serious). *Note: Classified as unexpected per the provided case scenario matrix.
+
+2. Pharmacovigilance Summary Metrics
+
+Total Serious Cases: 3
+Total Non-Serious Cases: 2
+Total Expected Reactions: 3
+Total Unexpected Reactions:2
+
+Conclusion:Proper classification of these cases dictates the regulatory reporting timeline. The serious and unexpected cases (Metformin and Levofloxacin) would theoretically trigger expedited 15-day reporting requirements to regulatory authorities (such as the FDA or EMA) due to their high impact on patient safety.
