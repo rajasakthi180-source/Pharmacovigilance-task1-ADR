@@ -1,1 +1,62 @@
-
+PHARMACOVIGILANCE ASSIGNMENT
+Task 4: Case Classification & Severity Analysis
+ 
+Student Name: Raja Aynkaran S
+Institution: JSS College of Pharmacy
+ 
+ 
+1. CASE EVALUATION TABLE
+ 
+Five spontaneous adverse drug reaction (ADR) reports were evaluated for regulatory seriousness and expectedness classification, in line with standard pharmacovigilance case-assessment criteria. The classification of each case, together with its supporting clinical rationale, is summarised below.
+ 
+Case 01
+Suspected Drug: Amoxicillin
+Adverse Reaction: Skin rash, itching
+Seriousness: Non-Serious
+Expectedness: Expected
+Clinical Rationale: Does not meet regulatory criteria for a serious event (no hospitalisation or threat to life). Cutaneous reactions are a well-documented, labelled event for aminopenicillins.
+ 
+Case 02
+Suspected Drug: Ibuprofen
+Adverse Reaction: GI bleeding requiring hospitalisation
+Seriousness: Serious
+Expectedness: Expected
+Clinical Rationale: Classified as serious because it resulted in hospitalisation. GI bleeding is a known, labelled risk of NSAID therapy.
+ 
+Case 03
+Suspected Drug: Metformin
+Adverse Reaction: Lactic acidosis
+Seriousness: Serious
+Expectedness: Unexpected
+Clinical Rationale: Lactic acidosis is a medically important, potentially life-threatening condition and therefore serious. Note: although often carried as a boxed warning, it is classified as unexpected here per the specific case-scenario parameters.
+ 
+Case 04
+Suspected Drug: Atorvastatin
+Adverse Reaction: Elevated liver enzymes (mild)
+Seriousness: Non-Serious
+Expectedness: Expected
+Clinical Rationale: Mild, asymptomatic enzyme elevations do not meet serious criteria. Transaminitis is a known, expected pharmacological effect of statins.
+ 
+Case 05
+Suspected Drug: Levofloxacin
+Adverse Reaction: Tendon rupture
+Seriousness: Serious
+Expectedness: Unexpected
+Clinical Rationale: Results in significant disability and is a medically important event, hence serious. Note: classified as unexpected per the provided case-scenario matrix.
+ 
+ 
+2. PHARMACOVIGILANCE SUMMARY METRICS
+ 
+Total Serious Cases: 3 (Cases 02, 03, 05)
+Total Non-Serious Cases: 2 (Cases 01, 04)
+Total Expected Reactions: 3 (Cases 01, 02, 04)
+Total Unexpected Reactions: 2 (Cases 03, 05)
+ 
+ 
+3. CONCLUSION
+ 
+The classification outcomes summarised above carry direct regulatory significance, since the designation of a case as serious and/or unexpected determines the reporting timeline that a marketing authorisation holder or investigator is obligated to follow. Of the five cases evaluated, three met the criteria for seriousness — GI bleeding with ibuprofen, lactic acidosis with metformin, and tendon rupture with levofloxacin — on the basis of hospitalisation, life-threatening potential, and significant disability, respectively. Two cases, the amoxicillin-associated skin rash and the mild atorvastatin-related transaminitis, did not meet these thresholds and were accordingly classified as non-serious.
+ 
+More critically, two cases (metformin-induced lactic acidosis and levofloxacin-induced tendon rupture) were classified as both serious and unexpected. Under international pharmacovigilance guidelines, such cases represent the highest-priority category for expedited reporting, typically requiring notification to regulatory authorities such as the FDA or EMA within 15 calendar days of the initial report. This accelerated timeline reflects the principle that reactions falling outside the known safety profile of a drug, and which pose a substantial threat to patient safety, demand the most rapid possible regulatory and clinical response. By contrast, the serious-but-expected case (ibuprofen-associated GI bleeding) and the two non-serious, expected cases would ordinarily be captured through routine periodic safety reporting rather than expedited channels.
+ 
+Overall, this exercise reinforces that accurate case classification is not a purely administrative step but the foundation on which appropriate signal detection, risk communication, and regulatory action depend. Consistent and criteria-based classification ensures that genuinely high-risk, unanticipated adverse events are escalated promptly, while well-characterised, labelled reactions are managed through standard pharmacovigilance monitoring.
